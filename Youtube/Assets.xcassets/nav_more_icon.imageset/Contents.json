@@ -2,11 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "taylor_swift_profile.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
+      "filename" : "nav_more_icon.png",
       "scale" : "2x"
     },
     {
